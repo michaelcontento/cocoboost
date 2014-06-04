@@ -1,0 +1,3 @@
+[submodule "boost-mirror"]
+	path = boost-mirror
+	url = git@github.com:michaelcontento/boost-mirror.git
