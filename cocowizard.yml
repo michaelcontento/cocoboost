@@ -1,1 +1,3 @@
 skip_ios_add_files: True
+android_ignore_java_files: True
+android_ignore_src_files: True
